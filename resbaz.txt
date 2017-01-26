@@ -1,2 +1,7 @@
 esta es una prueba de gitHub
 con la herramienta
+ahora tengo cambios en el archivo
+es una prueba nueva
+esta es otro cambio
+
+tiene otro cambio de parrafo 
